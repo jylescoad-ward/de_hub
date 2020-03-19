@@ -1,0 +1,1 @@
+.align-left {float:left;margin:0 15px 10px 0;}.align-right {float:right;margin:0 0 10px 15px;}blockquote {color:#999;font-size:18px;line-height:1.1;margin:0 0 0 30px;}
